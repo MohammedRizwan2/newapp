@@ -1,0 +1,14 @@
+ <Route exact path="/business "elment={<news key="business"contry="in"category="business"/>} />
+ <Route exact path="/entertainment"elment={<news key="entertainment"contry="in"category="entertainment"/>} />
+ <Route exact path="/general"elment={<news key="general"contry="in"category="general"/>} />
+ <Route exact path="/health"elment={<news key="health"contry="in"category="health"/>} />
+ <Route exact path="/science"elment={<news key="science"contry="in"category="science"/>} />
+ <Route exact path="/sports"elment={<news key="sports"contry="in"category="sports"/>} />
+ <Route exact path="/technology"elment={<news key="technology"contry="in"category="technology"/>} />
+
+
+
+
+
+
+   <Route exact path="/home"elment={<news key="general"contry="in"category="general"/>} 
